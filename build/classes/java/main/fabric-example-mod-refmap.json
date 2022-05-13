@@ -1,0 +1,36 @@
+{
+  "mappings": {
+    "net/fabricmc/example/mixin/ExampleMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    },
+    "net/fabricmc/example/mixin/MixinMoreOptions": {
+      "seedTextField": "field_24594:Lnet/minecraft/class_342;"
+    },
+    "net/fabricmc/example/mixin/GeneratorTypeAccessor": {
+      "VALUES": "field_25052:Ljava/util/List;"
+    },
+    "net/fabricmc/example/mixin/DimensionTypeAccessor": {
+      "THE_NETHER": "field_25408:Lnet/minecraft/class_2874;",
+      "OVERWORLD": "field_25407:Lnet/minecraft/class_2874;",
+      "THE_END": "field_25409:Lnet/minecraft/class_2874;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/fabricmc/example/mixin/ExampleMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      },
+      "net/fabricmc/example/mixin/MixinMoreOptions": {
+        "seedTextField": "field_24594:Lnet/minecraft/class_342;"
+      },
+      "net/fabricmc/example/mixin/GeneratorTypeAccessor": {
+        "VALUES": "field_25052:Ljava/util/List;"
+      },
+      "net/fabricmc/example/mixin/DimensionTypeAccessor": {
+        "THE_NETHER": "field_25408:Lnet/minecraft/class_2874;",
+        "OVERWORLD": "field_25407:Lnet/minecraft/class_2874;",
+        "THE_END": "field_25409:Lnet/minecraft/class_2874;"
+      }
+    }
+  }
+}
